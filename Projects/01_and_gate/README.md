@@ -5,9 +5,13 @@ This project implements a simple AND gate using VHDL.
 ## Truth Table
 
 A B | Y
+
 0 0 | 0
+
 0 1 | 0
+
 1 0 | 0
+
 1 1 | 1
 
 ## Files
